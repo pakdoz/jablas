@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//git.jablas.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//jablas.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://git.jablas.com/</loc>
+		<loc>https://jablas.com/</loc>
 		<lastmod>2019-04-20T11:28:01+07:00</lastmod>
 	</url>
 	<url>
-		<loc>https://git.jablas.com/syarat-ketentuan/</loc>
+		<loc>https://jablas.com/syarat-ketentuan/</loc>
 		<lastmod>2019-02-15T19:31:02+07:00</lastmod>
 	</url>
 	<url>
-		<loc>https://git.jablas.com/kontak/</loc>
+		<loc>https://jablas.com/kontak/</loc>
 		<lastmod>2019-03-26T09:12:55+07:00</lastmod>
 	</url>
 	<url>
-		<loc>https://git.jablas.com/harga/</loc>
+		<loc>https://jablas.com/harga/</loc>
 		<lastmod>2019-04-20T11:26:44+07:00</lastmod>
 	</url>
 </urlset>
